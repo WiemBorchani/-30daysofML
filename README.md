@@ -3,7 +3,6 @@
 <center>
 <h2>Kaggle’s 30 Days of ML Daily Assignments </h2>
 <img src="kaggle.jpg" width="800px">
-<br>
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/wiemborchani)
 </center>
