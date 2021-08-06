@@ -16,11 +16,11 @@
 <br>
 
 <h3>💫 <u><b>Day3 :</u></b></h3>
-<h4>-Completed the 'Functions and Getting Help' exercise from Lesson 2 of the <a href="https://www.kaggle.com/learn/python"> <b> Python course </b></a>.</h4></h4>
+<h4>-Completed the 'Functions and Getting Help' exercise from Lesson 2 of the <a href="https://www.kaggle.com/learn/python"> <b> Python course </b></a>.</h4>
 <br>
 
 <h3>💫 <u><b>Day4 :</u></b></h3>
-<h4></h4>
+<h4>-Completed the ' Booleans and Conditionals' exercise from Lesson 3 of the <a href="https://www.kaggle.com/learn/python"> <b> Python course </b></a>.</h4>
 <br>
 
 <h1></h1>
