@@ -29,6 +29,11 @@
 <br>
 
 <h3>💫 <u><b>Day6 :</u></b></h3>
+<h4>-Completed the ' Strings and Dictionaries ' exercise from Lesson 6 of the <a href="https://www.kaggle.com/learn/python"> <b> Python course </b></a>.</h4> 
+<br>
+
+<h3>💫 <u><b>Day7 :</u></b></h3>
+<br>
 
 <h1></h1>
 <h2>Program Highlights </h2>
