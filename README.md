@@ -7,7 +7,6 @@
 <h1></h1>
 <h2>👉<u><b> </b> Week 1 : </u></b></h2>
 <br>
-<br>
 
 <h3>💫 <u><b>Day1 :</u></b></h3>
 <h4>-Joined 30 Days of ML Discord Community.</h4>
@@ -35,13 +34,11 @@
 <br>
 
 <h3>💫 <u><b>Day7 :</u></b></h3>
-<h4>-Completed the the <a href="https://www.kaggle.com/learn/python"> <b> Python course </b></a>.</h4> 
-<img src="Python.png" width="800px">
-<br>
-
+<h4>-Completed the <a href="https://www.kaggle.com/learn/python"> <b>Python course </b></a>.</h4> 
+<img src="Python.png" width="400px">
 <br>
 <h2>👉<u><b> </b> Week 2 : </u></b></h2>
 <h1></h1>
 <h2>Program Highlights </h2>
-<img src="highlights.png" width="400px">
+<img src="highlights.png" width="800px">
 <h1></h1>
