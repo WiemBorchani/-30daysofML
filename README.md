@@ -5,6 +5,8 @@
 
 [![Kaggle Badge](https://img.shields.io/badge/MY_Kaggle_Profile-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/wiemborchani)
 <h1></h1>
+<h2>👉<u><b> </b> Week 1 : </u></b></h2>
+<br>
 <br>
 
 <h3>💫 <u><b>Day1 :</u></b></h3>
@@ -33,9 +35,13 @@
 <br>
 
 <h3>💫 <u><b>Day7 :</u></b></h3>
+<h4>-Completed the the <a href="https://www.kaggle.com/learn/python"> <b> Python course </b></a>.</h4> 
+<img src="Python.png" width="800px">
 <br>
 
+<br>
+<h2>👉<u><b> </b> Week 2 : </u></b></h2>
 <h1></h1>
 <h2>Program Highlights </h2>
-<img src="highlights.png" width="800px">
+<img src="highlights.png" width="400px">
 <h1></h1>
