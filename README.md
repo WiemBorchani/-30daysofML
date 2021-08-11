@@ -1,5 +1,4 @@
 <h1>#30daysofML </h1> 
-
 <h2>Kaggle’s 30 Days of ML Daily Assignments </h2>
 <img src="kaggle.jpg" width="800px">
 
@@ -29,13 +28,15 @@
 <h3>💫 <u><b>Day7 :</u></b></h3>
 <h4>-Completed the <a href="https://www.kaggle.com/learn/python"> <b>Python course </b></a>.</h4> 
 <img src="Python.png" width="400px">
-<br><br>
+<br>
+<h1></h1>
 <h2>👉<u><b> </b> Week 2 : </u></b></h2>
 <br>
-
 <h3>💫 <u><b>Day8 :</u></b></h3>
 <h4>-Completed Lesson1 and Lesson2 of the <a href="https://www.kaggle.com/learn/intro-to-machine-learning"> <b> Intro to Machine Learning
  course </b></a>.</h4>
+ <h3>💫 <u><b>Day9 :</u></b></h3>
+<h4>-Completed Lesson3 and Lesson4 of the <a href="https://www.kaggle.com/learn/intro-to-machine-learning"> <b> Intro to Machine Learning course</b></a>.</h4>
 <h1></h1>
 <h2>Program Highlights </h2>
 <img src="highlights.png" width="800px">
