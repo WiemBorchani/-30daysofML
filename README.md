@@ -37,6 +37,10 @@
  course </b></a>.</h4>
  <h3>💫 <u><b>Day9 :</u></b></h3>
 <h4>-Completed Lesson3 and Lesson4 of the <a href="https://www.kaggle.com/learn/intro-to-machine-learning"> <b> Intro to Machine Learning course</b></a>.</h4>
+<h3>💫 <u><b>Day10 :</u></b></h3>
+<h4>-Completed Lesson5 and Lesson6 of the <a href="https://www.kaggle.com/learn/intro-to-machine-learning"> <b> Intro to Machine Learning course</b></a>.</h4>
+<h3>💫 <u><b>Day11 :</u></b></h3>
+
 <h1></h1>
 <h2>Program Highlights </h2>
 <img src="highlights.png" width="800px">
