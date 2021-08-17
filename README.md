@@ -43,7 +43,7 @@
 <h4>-Completed the <a href="https://www.kaggle.com/learn/intro-to-machine-learning"> <b> Intro to Machine Learning  </b></a>course.</h4> 
 <img src="Intro to Machine Learning.png" width="400px">
 <br>
-<h3>💫 <u><b>Day11->14 :</u></b></h3>
+<h3>💫 <u><b>Day12->14 :</u></b></h3>
 <h4>-Already completed the <a href="https://www.kaggle.com/learn/intermediate-machine-learning"> <b> Intermediate Machine Learning </b></a>course .</h4> 
 <img src="IntermediateMachineLearning.png" width="400px">
 <h1></h1>
