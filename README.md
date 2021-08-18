@@ -47,8 +47,9 @@
 <h4>-Already completed the <a href="https://www.kaggle.com/learn/intermediate-machine-learning"> <b> Intermediate Machine Learning </b></a>course .</h4> 
 <img src="IntermediateMachineLearning.png" width="400px">
 <h1></h1>
-<h2>👉<u><b> </b> Week 3 : </u></b></h2>
-<br>
+<h2>👉<u><b> </b> Week 3-4 : </u></b></h2>
+<h4>For the final two weeks of the program, I will work on a competition, open only to people who have signed up for <a href="https://www.kaggle.com/thirty-days-of-ml"> <b>the 30 Days of ML program</b></a> .</h4> 
+<img src="30 Days of ML competition.png" width="400px">
 <h1></h1>
 <h2>Program Highlights </h2>
 <img src="highlights.png" width="800px">
